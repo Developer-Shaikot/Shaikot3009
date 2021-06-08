@@ -1,8 +1,6 @@
 
-- 👋 Hi, I’m @Shaikot3009
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Shaikot Kundu Akash.
+- 💞️ I’m looking to collaborate on team success through hard work, attention to detail and excellent organizational skills.
 - 📫 How to reach me ...- https://akash-portfolio-5b1d5.web.app/
 
 <!---
